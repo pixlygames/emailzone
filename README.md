@@ -11,7 +11,7 @@ One-time email per zone entry
 Installation
 
 Place emailzone folder in your resources directory
-Add ensure emailzone to your server.cfg
+Ensure emailzone to your server.cfg
 Restart your server
 
 How to Use
